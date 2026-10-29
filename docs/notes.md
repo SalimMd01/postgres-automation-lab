@@ -5,3 +5,7 @@
 - Docker Engine installed inside Ubuntu (not Docker Desktop)
 - Data folders in ~/data (stored on D:)
 - Problems: GitHub rate limit on login, waited and retried
+
+## Week 0 - Completed
+- VS Code with WSL extension working
+- AWS skipped (paid). Terraform will use Docker and PostgreSQL providers
